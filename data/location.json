@@ -1,0 +1,72 @@
+[
+    {
+        "location": {
+            "lat": 40.577,
+            "lng": -7.403
+        },
+        "content": [
+            "<div><b>ID Point: </b>30 </div>",
+            "<div><b>Country: </b>Portugal </div>",
+            "<div><b>District: </b>Guarda </div>",
+            "<div><b>County: </b>Celorico da Beira </div>",
+            "<div><b>City: </b>Salgueirais </div>",
+            "<div><b>Avg. Wind: </b>5.2 m/s  </div>"
+        ]
+    },
+    {
+        "location": {
+            "lat": 42.02,
+            "lng": -8.245
+        },
+        "content": [
+            "<div><b>ID Point: </b>53 </div>",
+            "<div><b>Country: </b>Portugal </div>",
+            "<div><b>District: </b>Viana do Castelo </div>",
+            "<div><b>County: </b>Melgaço </div>",
+            "<div><b>City: </b>Parada do Monte </div>",
+            "<div><b>Avg. Wind: </b>6.7 m/s  </div>"
+        ]
+    },
+    {
+        "location": {
+            "lat": 40.157,
+            "lng": -7.834
+        },
+        "content": [
+            "<div><b>ID Point: </b>79 </div>",
+            "<div><b>Country: </b>Portugal </div>",
+            "<div><b>District: </b>Coimbra </div>",
+            "<div><b>County: </b>Pampilhosa da Serra </div>",
+            "<div><b>City: </b> Unhais-o-Velho </div>",
+            "<div><b>Avg. Wind: </b>8.4 m/s </div>"
+        ]
+    },
+    {
+        "location": {
+            "lat": 41.73,
+            "lng": -7.947
+        },
+        "content": [
+            "<div><b>ID Point: </b>100 </div>",
+            "<div><b>Country: </b>Portugal </div>",
+            "<div><b>District: </b>Vila Real </div>",
+            "<div><b>County: </b>Montalegre </div>",
+            "<div><b>City: </b>Reigoso </div>",
+            "<div><b>Avg. Wind: </b>8.1 m/s </div>"
+        ]
+    },
+    {
+        "location": {
+            "lat": 41.065,
+            "lng": -7.545
+        },
+        "content": [
+            "<div><b>ID Point: </b>127 </div>",
+            "<div><b>Country: </b>Portugal </div>",
+            "<div><b>District: </b>Viseu </div>",
+            "<div><b>County: </b>Moimenta da Beira </div>",
+            "<div><b>City: </b>Paradela </div>",
+            "<div><b>Avg. Wind: </b>7.8 m/s </div>"
+        ]
+    }
+]

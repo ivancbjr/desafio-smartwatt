@@ -1,0 +1,47 @@
+[
+  {"occurType": "alarm",
+  "content": {
+        "id": 1,
+        "name": "Manual Alarms",
+        "type": "Medium",
+        "description": "Please check the sensor",
+        "id_point": "100",
+        "createdDate": "2016-05-15 06:35:24"
+    }},
+  {"occurType": "alarm",
+    "content": {
+        "id": 2,
+        "name": "Manual Alarms2",
+        "type": "Medium",
+        "description": "Please check the sensor",
+        "id_point": "127",
+        "createdDate": "2016-05-28 06:35:24"
+    }},
+    {"occurType": "alarm",
+      "content": {
+        "id": 3,
+        "name": "Manual Alarms3",
+        "type": "Medium",
+        "description": "Please check the sensor",
+        "id_point": "79",
+        "createdDate": "2016-05-29 06:35:24"
+    }},
+    {"occurType": "warning",
+    "content": {
+          "id": 1,
+          "name": "Manual Warning",
+          "type": "Medium",
+          "description": "Please check the sensor",
+          "id_point": "30",
+          "createdDate": "2016-04-28 06:35:24"
+      }},
+      {"occurType": "warning",
+      "content": {
+            "id": 2,
+            "name": "Manual Warning2",
+            "type": "Medium",
+            "description": "Please check the sensor",
+            "id_point": "53",
+            "createdDate": "2016-04-28 06:35:24"
+        }}
+]
